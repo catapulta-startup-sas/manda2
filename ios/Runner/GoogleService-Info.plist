@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>400487580371-jbia36hefp6tkk778cv2o6b3rrkfbvgu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.400487580371-jbia36hefp6tkk778cv2o6b3rrkfbvgu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBiWHrQX3H2dlj0Qvdd2D_cP64eLC7Ac_8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>400487580371</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.catapulta.manda2</string>
+	<key>PROJECT_ID</key>
+	<string>manda-2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>manda-2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:400487580371:ios:5405a56fcdfa114625ca26</string>
+	<key>DATABASE_URL</key>
+	<string>https://manda-2.firebaseio.com</string>
+</dict>
+</plist>
